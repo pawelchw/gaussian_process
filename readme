@@ -1,0 +1,9 @@
+************************
+*** Gaussian Process ***
+************************
+
+This is just a simple script to show how powerful Gaussian processes are, when dealing with random data.
+
+It needs proper commenting.
+
+Also, I should compare it with other methods at some point for the same line.
